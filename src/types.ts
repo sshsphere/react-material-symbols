@@ -1,4 +1,4 @@
-import type { JSXElementConstructor, ComponentPropsWithoutRef } from 'react';
+import type { JSXElementConstructor, ComponentPropsWithoutRef, JSX } from 'react';
 import type { MaterialSymbolWeightArray, SymbolCodepointsArray } from './consts';
 
 /**
